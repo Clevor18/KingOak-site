@@ -50,6 +50,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .out {
+
   position: center;
   margin-top: 90%;
 }
@@ -111,9 +112,11 @@ h1,h2,h3,h4,h5,h6{
 }
 .tan-bg{
 	background-color: #c4984b;
+  padding-bottom:6%;
 }
 .red-bg{
 	background-color: #9f2300;
+    padding-bottom:4.5%;
 }
 .copyright {
     margin-top: 15px;
@@ -130,5 +133,5 @@ h1,h2,h3,h4,h5,h6{
 >>>>>>> 310034476eb3fcf29687b944a176081032b6a154
     font-weight: 300;
     text-transform: uppercase;
-    margin-bottom: 30px;
+
 }
