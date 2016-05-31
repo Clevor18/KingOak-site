@@ -59,6 +59,14 @@
   #logo-1 { display: block; }
 #logo-2 { display: none; }
 #logo-3 { display: none; }
+.out {
+  position: center;
+  margin-top: 50%;
+}
+.out2{
+  position: center;
+  margin-top: 10%;
+}
 
 }
 
@@ -67,6 +75,14 @@
   #logo-1 { display: block; }
 #logo-2 { display: none; }
 #logo-3 { display: none; }
+.out {
+  position: center;
+  margin-top: 40%;
+}
+.out2{
+  position: center;
+  margin-top: 10%;
+}
 
 }
 
@@ -75,6 +91,14 @@
   #logo-1 { display: none; }
 #logo-2 { display: block; }
 #logo-3 { display: none; }
+.out {
+  position: center;
+  margin-top: 40%;
+}
+.out2{
+  position: center;
+  margin-top: 10%;
+}
 
 }
 
@@ -83,6 +107,14 @@
   #logo-1 { display: none; }
 #logo-2 { display: block; }
 #logo-3 { display: none; }
+.out {
+  position: center;
+  margin-top: 20%;
+}
+.out2{
+  position: center;
+  margin-top: 10%;
+}
 }
 
 /*Medium Tablets */
@@ -90,6 +122,14 @@
   #logo-1 { display: none; }
 #logo-2 { display: block; }
 #logo-3 { display: none; }
+.out {
+  position: center;
+  margin-top: 10%;
+}
+.out2{
+  position: center;
+  margin-top: 20%;
+}
 }
 
 /*iPad Portrait Mode, iPad Mini and Small Tablets */
@@ -97,6 +137,14 @@
   #logo-1 { display: none; }
 #logo-2 { display:none; }
 #logo-3 { display: block; }
+.out {
+  position: center;
+  margin-top: 20%;
+}
+.out2{
+  position: center;
+  margin-top: 20%;
+}
 }
 
 /*Medium Smart Phones v2*/
@@ -118,6 +166,10 @@
   #logo-1 { display: none; }
 #logo-2 { display:none; }
 #logo-3 { display: block; }
+.out {
+  position: center;
+  margin-top: 20%;
+}
 }
 
 /*Other Major Small Smart Phones*/
