@@ -13,6 +13,7 @@ p {
     line-height: 25px;
 }
 h1,h2,h3,h4,h5,h6{
+    font-family: 'slabo_13pxregular';
     margin-top: 0;
     margin-bottom: 0;
     font-weight: normal;
@@ -50,11 +51,11 @@ h1,h2,h3,h4,h5,h6{
 
 .out {
   position: center;
-  margin-top: 40%;
+  margin-top: 90%;
 }
 .out2{
   position: center;
-  margin-top: 20%;
+  margin-top: 40%;
 }
 
 /*nav ************************************************* */
@@ -122,7 +123,11 @@ h1,h2,h3,h4,h5,h6{
 .footer h3 {
     font-size: 22px;
     line-height: 30px;
+<<<<<<< HEAD
     font-family:  'slabo_13pxregular', sans-serif;
+=======
+    font-family:   'slabo_13pxregular', sans-serif;
+>>>>>>> 310034476eb3fcf29687b944a176081032b6a154
     font-weight: 300;
     text-transform: uppercase;
     margin-bottom: 30px;
