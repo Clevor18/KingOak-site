@@ -4,7 +4,11 @@
 	padding-left: 80px;
 	padding-right: 80px;
 <<<<<<< HEAD
+<<<<<<< HEAD
 } 
+=======
+}
+>>>>>>> d7185393f9673c07f2e09311fba55ff1e0d1a56e
 .ms-title a{
             cursor: url("../images/plus.png") 40 40, crosshair;
 =======
@@ -44,6 +48,7 @@
 .left1{
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	background-image:url("../images/girl_studying.jpg") !important;
     background-size: cover;
 }
@@ -79,6 +84,21 @@
 =======
     background-image:url('../images/writing.jpg') !important;
 >>>>>>> hanasalmon-master
+=======
+	background-image:url("../images/girl_studying.jpg") !important;
+    background-size: cover;
+}
+.left2{
+	background-image:url("../images/campus_1.jpg") !important;
+    background-size: cover;
+}
+.left3{
+	background-image:url("../images/waterfall.jpg") !important;
+    background-size: cover;
+}
+.left4{
+    background-image:url("../images/writing.jpg") !important;
+>>>>>>> d7185393f9673c07f2e09311fba55ff1e0d1a56e
     background-size: cover;
 }
 
@@ -86,6 +106,9 @@
 .right1{
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d7185393f9673c07f2e09311fba55ff1e0d1a56e
 	background-image:url("../images/coffee_studying.jpg") !important;
     background-size: cover;
 }
@@ -99,6 +122,7 @@
 }
 .right4{
     background-image:url("../images/classroom.jpg") !important;
+<<<<<<< HEAD
 =======
 	background-image:url(http://public/images/bench.jpg) !important;
 =======
@@ -123,3 +147,7 @@
 >>>>>>> hanasalmon-master
     background-size: cover;
 }
+=======
+    background-size: cover;
+}
+>>>>>>> d7185393f9673c07f2e09311fba55ff1e0d1a56e
