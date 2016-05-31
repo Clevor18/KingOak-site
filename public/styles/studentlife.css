@@ -3,9 +3,15 @@
 .ms-title {
 	padding-left: 80px;
 	padding-right: 80px;
+<<<<<<< HEAD
 } 
 .ms-title a{
             cursor: url("../images/plus.png") 40 40, crosshair;
+=======
+}
+.slidey-title a{
+            cursor: url("public/images/plus.png") 40 40, crosshair;
+>>>>>>> hanasalmon-master
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
@@ -32,6 +38,7 @@
 
 /*SLIDEYS*/
 .left1{
+<<<<<<< HEAD
 	background-image:url("../images/girl_studying.jpg") !important;
     background-size: cover;
 }
@@ -45,11 +52,27 @@
 }
 .left4{
     background-image:url("../images/writing.jpg") !important;
+=======
+	background-image:url(http://public/images/girl_studying.jpg) !important;
+    background-size: cover;
+}
+.left2{
+	background-image:url(http://public/images/snow_sunset.jpg) !important;
+    background-size: cover;
+}
+.left3{
+	background-image:url(http://public/images/waterfall.jpg) !important;
+    background-size: cover;
+}
+.left4{
+    background-image:url(http://public/images/writing.jpg) !important;
+>>>>>>> hanasalmon-master
     background-size: cover;
 }
 
 /*SLIDEYS*/
 .right1{
+<<<<<<< HEAD
 	background-image:url("../images/coffee_studying.jpg") !important;
     background-size: cover;
 }
@@ -63,5 +86,20 @@
 }
 .right4{
     background-image:url("../images/classroom.jpg") !important;
+=======
+	background-image:url(http://public/images/bench.jpg) !important;
+    background-size: cover;
+}
+.right2{
+	background-image:url(http://public/images/coffee_studying.jpg) !important;
+    background-size: cover;
+}
+.right3{
+	background-image:url(http://public/images/campus_1.jpg) !important;
+    background-size: cover;
+}
+.right4{
+    background-image:url(http://public/images/classroom.jpg) !important;
+>>>>>>> hanasalmon-master
     background-size: cover;
 }
