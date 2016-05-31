@@ -3,6 +3,8 @@
   #logo-1 { display: block; }
 #logo-2 { display: none; }
 #logo-3 { display: none; }
+}
+
 .out {
   position: center;
   margin-top: 20%;
@@ -75,7 +77,7 @@
 #logo-3 { display: none; }
 .out {
   position: center;
-  margin-top: 20%;
+  margin-top: 10%;
 }
 
 
