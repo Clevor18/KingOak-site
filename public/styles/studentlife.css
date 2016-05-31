@@ -5,7 +5,7 @@
 	padding-right: 80px;
 }
 .slidey-title a{
-            cursor: url("public/images/plus.png") 40 40, crosshair;
+            cursor: url('../images/plus.png') 40 40, crosshair;
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
@@ -32,36 +32,36 @@
 
 /*SLIDEYS*/
 .left1{
-	background-image:url(http://public/images/girl_studying.jpg) !important;
+	background-image:url('../images/girl_studying.jpg') !important;
     background-size: cover;
 }
 .left2{
-	background-image:url(http://public/images/snow_sunset.jpg) !important;
+	background-image:url('../images/snow_sunset.jpg') !important;
     background-size: cover;
 }
 .left3{
-	background-image:url(http://public/images/waterfall.jpg) !important;
+	background-image:url('../images/waterfall.jpg') !important;
     background-size: cover;
 }
 .left4{
-    background-image:url(http://public/images/writing.jpg) !important;
+    background-image:url('../images/writing.jpg') !important;
     background-size: cover;
 }
 
 /*SLIDEYS*/
 .right1{
-	background-image:url(http://public/images/bench.jpg) !important;
+	background-image:url('../images/bench.jpg') !important;
     background-size: cover;
 }
 .right2{
-	background-image:url(http://public/images/coffee_studying.jpg) !important;
+	background-image:url('../images/coffee_studying.jpg') !important;
     background-size: cover;
 }
 .right3{
-	background-image:url(http://public/images/campus_1.jpg) !important;
+	background-image:url('../images/campus_1.jpg') !important;
     background-size: cover;
 }
 .right4{
-    background-image:url(http://public/images/classroom.jpg) !important;
+    background-image:url('../images/classroom.jpg') !important;
     background-size: cover;
 }
