@@ -57,6 +57,10 @@
   #logo-1 { display: block; }
 #logo-2 { display: none; }
 #logo-3 { display: none; }
+.footer .copyright{
+  color:#000;
+  text-align: center;
+}
 
 }
 
@@ -118,6 +122,12 @@
 .out {
   position: center;
   margin-top: 20%;
+}
+.footer p {
+  text-align:left;
+}
+.footer h3 {
+  text-align:left;
 }
 
 }
