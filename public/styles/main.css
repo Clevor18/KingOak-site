@@ -49,6 +49,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .out {
+
   position: center;
   margin-top: 90%;
 }
@@ -114,6 +115,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .red-bg{
 	background-color: #9f2300;
+    padding-bottom:4.5%;
 }
 .copyright {
     margin-top: 15px;
@@ -126,5 +128,5 @@ h1,h2,h3,h4,h5,h6{
     font-family:   'slabo_13pxregular', sans-serif;
     font-weight: 300;
     text-transform: uppercase;
-    margin-bottom: 30px;
+
 }

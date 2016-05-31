@@ -3,6 +3,10 @@
   #logo-1 { display: block; }
 #logo-2 { display: none; }
 #logo-3 { display: none; }
+.out {
+  position: center;
+  margin-top: 20%;
+}
 
 }
 
@@ -27,6 +31,11 @@
   #logo-1 { display: block; }
 #logo-2 { display: none; }
 #logo-3 { display: none; }
+.out {
+  position: center;
+  margin-top: 50%;
+    margin-bottom:20%;
+}
 
 }
 
@@ -35,6 +44,11 @@
   #logo-1 { display: block; }
 #logo-2 { display: none; }
 #logo-3 { display: none; }
+.out {
+  position: center;
+  margin-top: 60%;
+    margin-bottom:20%;
+}
 
 }
 
@@ -61,12 +75,9 @@
 #logo-3 { display: none; }
 .out {
   position: center;
-  margin-top: 50%;
+  margin-top: 20%;
 }
-.out2{
-  position: center;
-  margin-top: 10%;
-}
+
 
 }
 
@@ -77,12 +88,9 @@
 #logo-3 { display: none; }
 .out {
   position: center;
-  margin-top: 40%;
+  margin-top: 60%;
 }
-.out2{
-  position: center;
-  margin-top: 10%;
-}
+
 
 }
 
@@ -93,7 +101,7 @@
 #logo-3 { display: none; }
 .out {
   position: center;
-  margin-top: 40%;
+  margin-top: 50%;
 }
 .out2{
   position: center;
@@ -111,10 +119,7 @@
   position: center;
   margin-top: 20%;
 }
-.out2{
-  position: center;
-  margin-top: 10%;
-}
+
 }
 
 /*Medium Tablets */
