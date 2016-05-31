@@ -4,10 +4,18 @@
 	padding-left: 80px;
 	padding-right: 80px;
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> upstream/master
+<<<<<<< HEAD
 }
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 } 
+>>>>>>> upstream/master
+=======
+>>>>>>> d7185393f9673c07f2e09311fba55ff1e0d1a56e
 >>>>>>> upstream/master
 .ms-title a{
             cursor: url("../images/plus.png") 40 40, crosshair;
@@ -47,6 +55,7 @@
 /*SLIDEYS*/
 .left1{
 <<<<<<< HEAD
+<<<<<<< HEAD
 	background-image:url("../images/girl_studying.jpg") !important;
     background-size: cover;
 }
@@ -61,6 +70,8 @@
 .left4{
     background-image:url("../images/writing.jpg") !important;
 =======
+=======
+>>>>>>> upstream/master
 <<<<<<< HEAD
 <<<<<<< HEAD
 	background-image:url("../images/girl_studying.jpg") !important;
@@ -98,6 +109,24 @@
 =======
     background-image:url('../images/writing.jpg') !important;
 >>>>>>> hanasalmon-master
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+=======
+	background-image:url("../images/girl_studying.jpg") !important;
+    background-size: cover;
+}
+.left2{
+	background-image:url("../images/campus_1.jpg") !important;
+    background-size: cover;
+}
+.left3{
+	background-image:url("../images/waterfall.jpg") !important;
+    background-size: cover;
+}
+.left4{
+    background-image:url("../images/writing.jpg") !important;
+>>>>>>> d7185393f9673c07f2e09311fba55ff1e0d1a56e
 >>>>>>> upstream/master
     background-size: cover;
 }
@@ -105,9 +134,17 @@
 /*SLIDEYS*/
 .right1{
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d7185393f9673c07f2e09311fba55ff1e0d1a56e
 >>>>>>> upstream/master
 	background-image:url("../images/coffee_studying.jpg") !important;
     background-size: cover;
@@ -123,9 +160,12 @@
 .right4{
     background-image:url("../images/classroom.jpg") !important;
 <<<<<<< HEAD
+<<<<<<< HEAD
     background-size: cover;
 }
 =======
+=======
+>>>>>>> upstream/master
 =======
 	background-image:url(http://public/images/bench.jpg) !important;
 =======
@@ -150,4 +190,11 @@
 >>>>>>> hanasalmon-master
     background-size: cover;
 }
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+=======
+    background-size: cover;
+}
+>>>>>>> d7185393f9673c07f2e09311fba55ff1e0d1a56e
 >>>>>>> upstream/master
