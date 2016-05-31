@@ -123,6 +123,13 @@ li a {
 .footer{
 
 }
+.footer .copyright{
+  
+  color:#000;
+}
+.footer p {
+  color:#fff;
+}
 .tan-bg{
 	background-color: #c4984b;
   padding-bottom:6%;
