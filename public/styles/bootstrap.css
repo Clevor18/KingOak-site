@@ -358,7 +358,11 @@ h6,
 .h4,
 .h5,
 .h6 {
+<<<<<<< HEAD
+  font-family: 'slabo_13pxregular';
+=======
   font-family:  'slabo_13pxregular';
+>>>>>>> 310034476eb3fcf29687b944a176081032b6a154
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
